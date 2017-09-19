@@ -1,3 +1,3 @@
 # pruebanube
 *cursiva*
-##*negrita cursiva*
+**negrita
